@@ -9,3 +9,5 @@
  3. for循环中：
 使用三个嵌套的循环来遍历所有可能的组合。外层循环遍历注射器型号和容量，中间循环遍历注射剂量选项和对应的剂量值，内层循环遍历注射次数。
 在内部的循环中，计算每个组合下的单次注射剂量，通过将注射剂量值除以注射次数来计算得到。
+![image](https://github.com/Simooly/project/assets/149877649/176e032c-3a33-4204-be10-1000237f6acd)
+![image](https://github.com/Simooly/project/assets/149877649/09d283f6-f332-45e5-9fe6-eaa9e1b5fc44)
